@@ -82,8 +82,7 @@ Hi, I'm René Sebastián Joo Cisneros a developer with the mission to contribute
 ---
 [![](https://visitcount.itsvg.in/api?id=ReneSebastianJoo&icon=2&color=4)](https://visitcount.itsvg.in)
 
-
- ![Snake animation](https://github.com/ReneSebastianJoo/ReneSebastianJoo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ReneSebastianJoo/ReneSebastianJoo/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
