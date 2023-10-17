@@ -4,7 +4,7 @@
 
 ## About me:
 
-Hi, I'm René Sebastián Joo Cisneros a developer with the mission to contribute<br>by increasing the efficiency of proceses by searching their continues improvement<br>with the help of technology and Data science.<br><br>I'm a logical and creative person that enjoys leaning new stuff mostly <br>new tech and greatly enjoys collaboration and teamwork.<br><br>🎯I'm currently Finishing HENRY Full Time Data Science Bootcamp<br>📕Learning web developement with python and its Frameworks<br>🔎 Looking for a role in any Data related Field<br>💬By continuously learning new skills and applying them one can better the world<br><br> 
+Hi, I'm René Sebastián Joo Cisneros a developer with the mission to contribute<br>by increasing the efficiency of proceses by searching their continues improvement<br>with the help of technology and Data science.<br><br>I'm a logical and creative person that enjoys leaning new stuff mostly <br>new tech and greatly enjoys collaboration and teamwork.<br><br>🎯I'm currently Finishing HENRY Full Time Data Science Bootcamp<br>📕Learning web developement with python and its Frameworks<br>🔎 Looking for a role in any Data related Field<br>💬"An investment in knowledge pays the best interest. Knowledge is the treasure of a wise man. Investment in knowledge always pays the best interest" -Benjamin Franklin <br><br> 
 
 ## 🌐 Socials:
 <br>
